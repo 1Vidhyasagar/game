@@ -79,12 +79,16 @@
 }
 
 .win-text {
+  justify-content: center;
   color: white;
   font-size: 60px;
 }
 
 .win-history {
-  color: white;
+  color: rgb(251, 251, 251);
   font-size: 25px;
-  margin: 2rem 0;
+  margin:20px;
+  display: flex;
+  justify-content: space-around;
+  padding-bottom: 10px;
 }
